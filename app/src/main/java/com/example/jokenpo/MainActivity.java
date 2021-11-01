@@ -50,6 +50,9 @@ public class MainActivity extends AppCompatActivity {
             result.setImageResource(R.drawable.pedra);
             break;
 
+
+            //teste 5
+
          case "Papel" :
              result.setImageResource(R.drawable.papel);
             break;
